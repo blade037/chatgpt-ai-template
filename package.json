@@ -57,5 +57,9 @@
   "resolutions": {
     "@types/react": "18.0.31",
     "@types/react-dom": "18.0.11"
-  }
+  },
+  "description": "![version](https://img.shields.io/badge/version-2.2.0-brightgreen.svg)\r [![GitHub issues open](https://img.shields.io/github/issues/horizon-ui/chatgpt-ai-template.svg?maxAge=2592000)](https://github.com/horizon-ui/chatgpt-ai-template/issues?q=is%3Aopen+is%3Aissue)",
+  "main": "next.config.js",
+  "author": "",
+  "license": "ISC"
 }
